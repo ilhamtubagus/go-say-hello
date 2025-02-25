@@ -1,8 +1,8 @@
-package hello
+package go_say_hello
 
 import "fmt"
 
-func SayHellow(message string) (string, error) {
+func SayHello(message string) (string, error) {
 	if message == "" {
 		return "", fmt.Errorf("message cannot be empty")
 	}
