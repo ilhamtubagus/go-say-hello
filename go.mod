@@ -1,3 +1,3 @@
-module github.com/ilhamtubagus/go-say-hello/v2
+module github.com/ilhamtubagus/go-say-hello
 
 go 1.23.4
